@@ -1,3 +1,9 @@
+# QtCreator
+*.autosave
+ 
+# QtCtreator CMake
+CMakeLists.txt.user*
+
 # Prerequisites
 *.d
 

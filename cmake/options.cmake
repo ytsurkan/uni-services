@@ -1,0 +1,1 @@
+option(INSTALL_GTEST OFF)
