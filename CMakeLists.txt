@@ -5,7 +5,6 @@ project( uni-services )
 list(APPEND CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake")
 
 include(bootstrap)
-include(CMakePrintHelpers)
 
 uni_cmake_set_cxxstd(17)
 

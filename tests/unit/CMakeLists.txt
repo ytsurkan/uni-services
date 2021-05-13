@@ -30,5 +30,3 @@ target_link_libraries( ${PROJECT_NAME}
         gtest_main
         gmock
 )
-
-cmake_print_properties(TARGETS ${PROJECT_NAME} PROPERTIES INSTALL_RPATH)
